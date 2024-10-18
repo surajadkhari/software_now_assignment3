@@ -8,7 +8,7 @@ class BaseAttendance:
     def __init__(self, file_path):
         self.file_path = file_path
         self.shift_flag = []
-        self.shift_start_time = [1]
+        self.shift_start_time = []
     
     def read_employees_from_csv(self):
         """Read employees from a CSV file and initialize flags."""
@@ -66,6 +66,8 @@ class BaseAttendance:
                 csv_writer.writerow(['Date', 'Start Time', 'End Time', 'Duration'])
         except Exception as e:
             messagebox.showerror("Error", f"Failed to create CSV file: {str(e)}")
+
+
 class AdminAttendance(BaseAttendance):
     def __init__(self, file_path):
         super().__init__(file_path)
@@ -115,6 +117,7 @@ class AdminAttendance(BaseAttendance):
                     messagebox.showerror("Login Failed", "Invalid credentials, please try again.")
         except FileNotFoundError:
             messagebox.showerror("Error", "Credentials file not found!")
+
     def show_admin_screen(self):
         for widget in root.winfo_children():
             widget.destroy()
@@ -243,4 +246,3 @@ attendance_system = AdminAttendance(r"E:/Software_Now/Assignment3/employeelist.t
 attendance_system.reset_to_initial_screen()
 
 root.mainloop()
-
