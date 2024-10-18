@@ -1,6 +1,3 @@
-Here’s a revised **README.md** that includes your group members and keeps the content unique and engaging:
-
----
 
 # **Group Assignment: Employee Attendance System & 2D Tank Game**
 
