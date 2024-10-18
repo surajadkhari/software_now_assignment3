@@ -61,7 +61,7 @@ These projects not only implement OOP principles but also provide practical real
 ### **Steps to Install and Run**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repository/assignment.git
+   git clone [https://github.com/your-repository/assignment.git](https://github.com/surajadkhari/software_now_assignment3/)
    cd assignment
    ```
 
@@ -72,7 +72,7 @@ These projects not only implement OOP principles but also provide practical real
 
 3. **Run the Tkinter Employee Attendance System**:
    ```bash
-   python tkinter_attendance_system.py
+   python finalcode.py
    ```
 
 4. **Run the Pygame Tank Game**:
