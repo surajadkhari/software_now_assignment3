@@ -123,6 +123,11 @@ This **README** should now reflect both the technical aspects of your project an
 ![p2](https://github.com/user-attachments/assets/05e51909-f3dc-48ec-b4af-0abc0d843e0a)
 ![p3](https://github.com/user-attachments/assets/0047bcec-6d6d-4682-b5e9-fd8b29b3dbbb)
 ![p4](https://github.com/user-attachments/assets/d43599f9-843f-4ec5-a266-23b5bde0cde3)
+![p5](https://github.com/user-attachments/assets/3f25c274-f318-4785-9b2f-f218561b2c3f)
+
+### **Question 2**
 
 
-
+![q2](https://github.com/user-attachments/assets/68e570cf-00fe-41c7-a19e-c1480ea57b19)
+![q23](https://github.com/user-attachments/assets/2749d05f-8c2f-41df-8074-b1495fe1b8b6)
+![q22](https://github.com/user-attachments/assets/005e252b-3cce-48a9-9d5f-947a3070bce1)
