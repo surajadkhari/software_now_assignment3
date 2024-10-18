@@ -115,3 +115,7 @@ We hope you find these projects useful and fun to interact with!
 This **README** should now reflect both the technical aspects of your project and the teamwork that went into it. You can tweak it further to match any specific details of your project or style!
 
 ## **Output**
+![p1](https://github.com/user-attachments/assets/f7633750-4f48-4a1f-80a9-cdf6cbab49bd)
+![p2](https://github.com/user-attachments/assets/05e51909-f3dc-48ec-b4af-0abc0d843e0a)
+
+
