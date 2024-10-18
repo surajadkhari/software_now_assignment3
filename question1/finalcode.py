@@ -8,7 +8,7 @@ class BaseAttendance:
     def __init__(self, file_path):
         self.file_path = file_path
         self.shift_flag = []
-        self.shift_start_time = []
+        self.shift_start_time = [1]
     
     def read_employees_from_csv(self):
         """Read employees from a CSV file and initialize flags."""
